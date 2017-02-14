@@ -12,5 +12,5 @@ eg, input: 18 cents
 output: 1 dime, 1 nickels, 3 cents;
 
 #### The user enters an amount of cents greater or equal to 25, return quarters in closest smaller integer to input divided by 25, and return dimes in the remainder of the first division divided by 10, and return nickels in the remainder of the second division divided by 5, and return pennies in remainder of input divided by 5.
-eg, input: 38 cents;
+eg, input: 43 cents;
 output: 1 quarter, 1 dime, 1 nickel, 3 cents;
